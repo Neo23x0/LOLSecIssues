@@ -50,6 +50,13 @@ Cybersecurity's lighter side: a collection of the most amusing misunderstandings
 
 [Link to the issue](https://github.com/rapid7/metasploit-framework/issues/13509)
 
+### Virus?
+
+![msf1](./screens/msf2.png)
+
+[Link to the issue](https://github.com/rapid7/metasploit-framework/issues/11511)
+
+
 ---
 
 ## Web Shells
