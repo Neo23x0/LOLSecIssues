@@ -29,6 +29,8 @@ Cybersecurity meets comedy in this curated compilation of humorous glitches and 
 
 ![tennc webshell](./screens/webshell_hidden_backdoor.jpg)
 
+[Link to Issue](https://github.com/tennc/webshell/issues/27)
+
 ---
 
 ## SecLists
@@ -36,3 +38,5 @@ Cybersecurity meets comedy in this curated compilation of humorous glitches and 
 1. Remove my password from lists so hackers won't be able to hack me
 
 ![tennc webshell](./screens/seclists1.png)
+
+[Link to Issue](https://github.com/danielmiessler/SecLists/pull/155)
