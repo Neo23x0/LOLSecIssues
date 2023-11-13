@@ -2,6 +2,8 @@
 
 Cybersecurity's lighter side: a collection of the most amusing misunderstandings and missteps from newcomers to offensive security tools. A repository where naiveté in infosec is met with humor.
 
+[Here] is the website to this repository.
+
 ---
 
 ## Quasar RAT
