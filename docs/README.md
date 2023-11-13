@@ -40,6 +40,16 @@ Cybersecurity's lighter side: a collection of the most amusing misunderstandings
 
 [Link to the issue](https://github.com/gentilkiwi/mimikatz/issues/114)
 
+--- 
+
+## Metasploit Framework
+
+### LHOST and RHOST
+
+![msf1](./screens/msf1.png)
+
+[Link to the issue](https://github.com/rapid7/metasploit-framework/issues/13509)
+
 ---
 
 ## Web Shells
