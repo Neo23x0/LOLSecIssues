@@ -10,35 +10,45 @@ Cybersecurity's lighter side: a collection of the most amusing misunderstandings
 
 ![quasar screenshot](./screens/quasar1.jpg)
 
-[Link to Issue](https://github.com/quasar/Quasar/issues/670)
+[Link to the issue](https://github.com/quasar/Quasar/issues/670)
 
 ### When download the binaries, my antivirus warns me
 
 ![quasar screenshot](./screens/quasar2.jpg)
 
-[Link to Issue](https://github.com/quasar/Quasar/issues/712)
+[Link to the issue](https://github.com/quasar/Quasar/issues/712)
 
 ### Does this have a Virus?
 
 ![quasar screenshot](./screens/quasar3.png)
 
-[Link to Issue](https://github.com/quasar/Quasar/issues/658)
+[Link to the issue](https://github.com/quasar/Quasar/issues/658)
+
+---
+
+## Mimikatz
+
+### How should I run Mimikatz?
+
+![mimikatz1](./screens/mimikatz1.png)
+
+[Link to the issue](https://github.com/gentilkiwi/mimikatz/issues/78)
 
 ---
 
 ## Webshells
 
-1. Hidden Backdoor in Webshell 1
+### Hidden Backdoor in Webshell 1
 
 ![tennc webshell](./screens/webshell_hidden_backdoor.jpg)
 
-[Link to Issue](https://github.com/tennc/webshell/issues/27)
+[Link to the issue](https://github.com/tennc/webshell/issues/27)
 
-2. Hidden Backdoor in Webshell 2
+### Hidden Backdoor in Webshell 2
 
 ![tennc webshell](./screens/webshell_hidden_backdoor2.png)
 
-[Link to Issue](https://github.com/trustedsec/ptf/issues/303)
+[Link to the issue](https://github.com/trustedsec/ptf/issues/303)
 
 ---
 
@@ -48,7 +58,7 @@ Cybersecurity's lighter side: a collection of the most amusing misunderstandings
 
 ![tennc webshell](./screens/seclists1.png)
 
-[Link to Issue](https://github.com/danielmiessler/SecLists/pull/155)
+[Link to the issue](https://github.com/danielmiessler/SecLists/pull/155)
 
 --- 
 
