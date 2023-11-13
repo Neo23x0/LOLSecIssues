@@ -1,5 +1,6 @@
 # LOLSecIssues
-Cybersecurity meets comedy in this curated compilation of humorous glitches and anecdotes from offensive security tools. A lighthearted take on the usually serious world of infosec.
+
+Cybersecurity's lighter side: a collection of the most amusing misunderstandings and missteps from newcomers to offensive security tools. A repository where naiveté in infosec is met with humor.
 
 ## Quasar RAT
 
