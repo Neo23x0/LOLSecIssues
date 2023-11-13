@@ -21,11 +21,15 @@ Cybersecurity meets comedy in this curated compilation of humorous glitches and 
 
 [Link to Issue](https://github.com/quasar/Quasar/issues/658)
 
+---
+
 ## Tennc Webshells
 
 1. Hidden Backdoor in Webshell
 
 ![tennc webshell](./screens/webshell_hidden_backdoor.jpg)
+
+---
 
 ## SecLists
 
